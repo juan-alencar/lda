@@ -1,19 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// LISTA DE EXERCÍCIOS - LABORATÓRIO DE DESENVOLVIMENTO DE ALGORÍTMO
+// LISTA DE EXERCï¿½CIOS - LABORATï¿½RIO DE DESENVOLVIMENTO DE ALGORï¿½TMO
 // ALUNO = JUAN DIEGO MEDEIROS ALENCAR
 
-// QUESTÃO 14
+// QUESTï¿½O 14
 /*
 	Leia dois valores, e exiba sua soma. 
-	Em seguida pergunte ao usuário: “Novo Cálculo (S/N)?”.
+	Em seguida pergunte ao usuï¿½rio: ï¿½Novo Cï¿½lculo (S/N)?ï¿½.
 	 
-	Deve-se ler a resposta e se a resposta for ‘S’ (sim), 
-	deve-se repetir todos oscomandos (instruções) novamente,
+	Deve-se ler a resposta e se a resposta for ï¿½Sï¿½ (sim), 
+	deve-se repetir todos oscomandos (instruï¿½ï¿½es) novamente,
 	 
 	mas se for qualquer outra resposta, o algoritmo deve
-	ser finalizado escrevendo a mensagem “Fim dos Cálculos”
+	ser finalizado escrevendo a mensagem ï¿½Fim dos Cï¿½lculosï¿½
 */
 
 int main()
